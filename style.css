@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one-but{
+    width: 243px;
+    height: 50px;
+    background-color: #009ff5b5;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 8px 4px 4px #dad3ff;
+}
+.header-text{
+    text-decoration: none;
+    color: white;
+}
+.header-div{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 42px;
+}
+.one-sect{
+    background-color: yellow;
+    border: 11px solid #5a5555;
+    /* Rectangle 2 */
+position: absolute;
+width: 604px;
+height: 103px;
+left: 443px;
+top: 243px;
+border-radius: 58px;
+color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0%;
+text-align: left;
+text-align: center;
+padding-top: 20px;
+}
+.igrok{
+    display: flex;
+    margin-top: 478px;
+    justify-content: space-around;
+    margin-bottom: 200px;
+}
+.qora{
+    background-color: black;
+    text-align: center;
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 36px;
+font-weight: 600;
+line-height: 42px;
+letter-spacing: 0%;
+    color: rgb(255, 255, 255);
+}
+.PUBG{
+    background-image: url(./images/image\ 1\ \(3\).png);
+    margin-top: 0px;
+}
+body{
+    background-color: black;
+}
+.one-main{
+    background-color: black;
+}
+.infor{
+    text-align: center;
+    color: #5a5555;
+font-family: Roboto;
+font-size: 64px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0%;
+}
+.one-text{
+    color: white;
+    width: 500px;
+}
+.two-but{
+    width: 278px;
+    height: 61px;
+    background-color:  #535353;
+    color: white;
+    margin-top: 130px;
+}
+.one-rasm{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 58px;
+}
+.www{
+    display: block;
+}
+.ohi{
+    background-color: yellow;
+
+}
+.oh{
+    margin-left: 58px;
+    padding-top: 51px;
+
+}
+.la{
+    margin-left: 1000px;
+    display: flex;
+    justify-content: space-around;
+}
